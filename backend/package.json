@@ -1,0 +1,11 @@
+{
+  "name": "pos",
+  "version": "1.0.0",
+  "description": "An POS system developed using Angular, nodeJS and MongoDB",
+  "main": "app.ja",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akki",
+  "license": "ISC"
+}
